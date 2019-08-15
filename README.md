@@ -4,6 +4,10 @@ This is [Ivan Kuckir's cubic spline implementation](http://blog.ivank.net/interp
 
 
 
+![example](https://github.com/73-ch/ofxCubicSpline/wiki/images/example.gif)
+
+
+
 ## How to use
 
 ```c++
